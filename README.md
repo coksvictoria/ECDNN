@@ -35,3 +35,19 @@ Accuracy for kNN with k = 21 and uniform weights: 0.978
 Predict time for kNN with distance weights: 0.015s
 Accuracy for kNN with k = 21 and distance weights: 0.983
 ```
+
+
+## Citation
+If you use this code or ECDNN algorithm for your research, please cite this paper.
+```
+@article{wang2023ensemble,
+  title={Ensemble k-nearest neighbors based on centroid displacement},
+  author={Wang, Alex X and Chukova, Stefanka S and Nguyen, Binh P},
+  journal={Information Sciences},
+  volume={629},
+  pages={313--323},
+  year={2023},
+  doi={10.1016/j.ins.2023.02.004},
+  publisher={Elsevier}
+}
+```
